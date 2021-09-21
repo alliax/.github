@@ -1,6 +1,8 @@
 ## Alliax, S.A. de C.V.
 ### Technological Solutions Development
 
+![Alliax-portada (1)](https://user-images.githubusercontent.com/5419161/134220826-a87df2f8-a1dd-4084-b8d7-0018e4385cd8.jpg)
+
 <!--
 
 **Here are some ideas to get you started:**
